@@ -1,5 +1,5 @@
 echo -e "\033[1;31m4G VIỆT QUALITI OFFICIAL \033[0m"
-echo -e "\033[1;32mPhiên bản: v4.1 \033[0m"
+echo -e "\033[1;32mPhiên bản: v4.2 \033[0m"
 echo -e "\033[1;32mBản quyền thuộc Nông Triệu Thái \033[0m"
 echo "Bây giờ là: " $(date +"%H:%M , Ngày %d Tháng %m Năm %Y")
 echo " " 
